@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://gatheringpantaimalang.com/index.html</loc>
-        <lastmod>2024-02-23</lastmod>
+        <loc>https://paketgathering-pantaiselatan-malang.vercel.app/index.html</loc>
+        <lastmod>2025-02-24</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://gatheringpantaimalang.com/blog.html</loc>
-        <lastmod>2024-02-23</lastmod>
+        <loc>https://paketgathering-pantaiselatan-malang.vercel.app/blog.html</loc>
+        <lastmod>2025-02-24</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://gatheringpantaimalang.com/articles/paket-gathering-pantai-balekambang.html</loc>
-        <lastmod>2024-02-23</lastmod>
+        <loc>https://paketgathering-pantaiselatan-malang.vercel.app/articles/paket-gathering-pantai-balekambang.html</loc>
+        <lastmod>2025-02-24</lastmod>
         <priority>0.70</priority>
     </url>
     <url>
-        <loc>https://gatheringpantaimalang.com/articles/tips-gathering-pantai-selatan-malang.html</loc>
-        <lastmod>2024-02-23</lastmod>
+        <loc>https://paketgathering-pantaiselatan-malang.vercel.app/articles/tips-gathering-pantai-selatan-malang.html</loc>
+        <lastmod>2025-02-24</lastmod>
         <priority>0.70</priority>
     </url>
     <url>
-        <loc>https://gatheringpantaimalang.com/articles/snorkeling-pantai-tiga-warna-malang.html</loc>
-        <lastmod>2024-02-23</lastmod>
+        <loc>https://paketgathering-pantaiselatan-malang.vercel.app/articles/snorkeling-pantai-tiga-warna-malang.html</loc>
+        <lastmod>2025-02-24</lastmod>
         <priority>0.70</priority>
     </url>
     <url>
-        <loc>https://gatheringpantaimalang.com/articles/hidden-gem-pantai-teluk-asmoro.html</loc>
-        <lastmod>2024-02-23</lastmod>
+        <loc>https://paketgathering-pantaiselatan-malang.vercel.app/articles/hidden-gem-pantai-teluk-asmoro.html</loc>
+        <lastmod>2025-02-24</lastmod>
         <priority>0.70</priority>
     </url>
     <url>
-        <loc>https://gatheringpantaimalang.com/articles/konservasi-pantai-clungup-malang.html</loc>
-        <lastmod>2024-02-23</lastmod>
+        <loc>https://paketgathering-pantaiselatan-malang.vercel.app/articles/konservasi-pantai-clungup-malang.html</loc>
+        <lastmod>2025-02-24</lastmod>
         <priority>0.70</priority>
     </url>
 </urlset>
